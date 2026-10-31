@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Universal Music</string>
+    <string name="search_hint">Search tracks, artists…</string>
+    <string name="search_clear_description">Clear search query</string>
+    <string name="search_empty_prompt">Enter at least 2 characters to search across enabled providers.</string>
+    <string name="search_no_results">No matching results found across enabled providers.</string>
+    <string name="availability_full_stream">Full Stream</string>
+    <string name="availability_preview">30s Preview</string>
+    <string name="availability_official_player">Official Player</string>
+    <string name="availability_external_only">Metadata only</string>
+    <string name="availability_unavailable">Unavailable</string>
+    <string name="provider_state_loading">Searching…</string>
+    <string name="provider_state_results">%1$d results</string>
+    <string name="provider_state_rate_limited">Rate limited</string>
+    <string name="provider_state_auth_required">Auth required</string>
+    <string name="provider_state_disabled">Disabled</string>
+    <string name="provider_state_error">Unavailable</string>
+    <string name="action_play">Play track</string>
+    <string name="action_pause">Pause playback</string>
+    <string name="source_attribution_prefix">Source: %1$s</string>
+    <string name="more_sources">+%1$d more sources</string>
+</resources>

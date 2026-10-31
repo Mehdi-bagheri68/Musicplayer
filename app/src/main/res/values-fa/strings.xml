@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">یونیورسال موزیک</string>
+    <string name="search_hint">جست‌وجوی آهنگ یا خواننده…</string>
+    <string name="search_clear_description">پاک کردن عبارت جست‌وجو</string>
+    <string name="search_empty_prompt">برای جست‌وجوی هم‌زمان در منابع فعال، حداقل ۲ حرف وارد کنید.</string>
+    <string name="search_no_results">نتیجه‌ای در منابع فعال یافت نشد.</string>
+    <string name="availability_full_stream">پخش کامل</string>
+    <string name="availability_preview">پیش‌نمایش ۳۰ ثانیه‌ای</string>
+    <string name="availability_official_player">پلیر رسمی منبع</string>
+    <string name="availability_external_only">فقط اطلاعات</string>
+    <string name="availability_unavailable">غیرقابل پخش</string>
+    <string name="provider_state_loading">در حال جست‌وجو…</string>
+    <string name="provider_state_results">%1$d نتیجه</string>
+    <string name="provider_state_rate_limited">محدودیت درخواست</string>
+    <string name="provider_state_auth_required">نیازمند احراز هویت</string>
+    <string name="provider_state_disabled">غیرفعال</string>
+    <string name="provider_state_error">خارج از دسترس</string>
+    <string name="action_play">پخش آهنگ</string>
+    <string name="action_pause">توقف پخش</string>
+    <string name="source_attribution_prefix">منبع: %1$s</string>
+    <string name="more_sources">+%1$d منبع دیگر</string>
+</resources>
